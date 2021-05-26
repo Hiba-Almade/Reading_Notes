@@ -8,4 +8,4 @@ The next page will include a summary of all the readings that I will perform in 
 no  |  Reading title
 ------------ | -------------
 1| **[Lab: 01b - Learning Markdown](https://hiba-almade.github.io/reading-notes/)**
-2| ..
+2| **[Read: 03 - Structure web pages with HTML](read3)**
