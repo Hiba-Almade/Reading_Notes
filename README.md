@@ -10,7 +10,3 @@ The next page will include a summary of all the readings that I will perform in 
 | Growth      | [Click here](https://hiba-almade.github.io/Reading_Notes/growth.md)       |
 | HTML   | [Click here](https://hiba-almade.github.io/Reading_Notes/read3.md)     |
 
-no  |  Reading title
------------- | -------------
-1| **[Growth](https://hiba-almade.github.io/reading-notes/)**
-2| **[Read: 03 - Structure web pages with HTML](read3)**
