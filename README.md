@@ -5,8 +5,10 @@
 
 The next page will include a summary of all the readings that I will perform in this course
 
-| Title       | Link        |
-| ----------- | ----------- |
-| Growth      | [Click here](https://hiba-almade.github.io/Reading_Notes/growth.md)       |
-| HTML   | [Click here](https://hiba-almade.github.io/Reading_Notes/read3.md)     |
+| Title       | Link                                      |
+| ----------- | -----------                               |
+| Growth      | [Click here](https://hiba-almade.github.io/Reading_Notes/growth.md)   |
+| HTML        | [Click here](https://hiba-almade.github.io/Reading_Notes/read3.md)    |
+| Java Script | [Click here](https://hiba-almade.github.io/Reading_Notes/JavaScript.md)    |
+
 
