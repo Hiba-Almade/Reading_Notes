@@ -7,8 +7,10 @@ The next page will include a summary of all the readings that I will perform in 
 
 | Title       | Link                                      |
 | ----------- | -----------                               |
-| Growth      | [Click here](https://hiba-almade.github.io/Reading_Notes/growth.md)   |
-| HTML        | [Click here](https://hiba-almade.github.io/Reading_Notes/read3.md)    |
-| Java Script | [Click here](https://hiba-almade.github.io/Reading_Notes/JavaScript.md)    |
+| Growth      | [Click here](https://hiba-almade.github.io/Reading_Notes/growth)   |
+| HTML        | [Click here](https://hiba-almade.github.io/Reading_Notes/read3)    |
+| Java Script | [Click here](https://hiba-almade.github.io/Reading_Notes/JavaScript)    |
+| Loop JS | [Click here](https://hiba-almade.github.io/Reading_Notes/LoopJS)    |
+
 
 
