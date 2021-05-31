@@ -8,6 +8,7 @@ CSS is easy to learn and understand but it provides powerful control over the pr
 
 ## There are three ways you can use to implement CSS:
  ### Internal CSS
+
  Internal or embedded CSS requires you to add `<style>` tag in the `<head>` section of your HTML document.
 
 ### External CSS
@@ -16,4 +17,5 @@ This CSS type is a more efficient method, especially for styling a large website
 
 ### Inline CSS
 Inline CSS is used to style a specific HTML element. For this CSS style, you’ll only need to add the style attribute to each HTML tag, without using selectors.
+
 ![css](https://i.pinimg.com/originals/de/68/1e/de681e16e0e2fbe92a87fd3a842e60d3.png)
