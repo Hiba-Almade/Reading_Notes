@@ -12,6 +12,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Java Script | [Click here](https://hiba-almade.github.io/Reading_Notes/JavaScript)    |
 | Loop JS | [Click here](https://hiba-almade.github.io/Reading_Notes/LoopJS)    |
 | Function JS | [Click here](https://hiba-almade.github.io/Reading_Notes/FunctionJS)    |
+| CSS | [Click here](https://hiba-almade.github.io/Reading_Notes/Css)    |
 
 
 
