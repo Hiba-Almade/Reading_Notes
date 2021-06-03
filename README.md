@@ -1,4 +1,4 @@
-![Welcome](https://st4.depositphotos.com/8108566/20241/v/1600/depositphotos_202417732-stock-illustration-vector-cartoon-business-people-holding.jpg)
+![Welcome](https://p.kindpng.com/picc/s/3-34565_welcome-png-transparent-png.png)
 
 **Hello**
 *My name is <span style="font-family:Papyrus; font-size:2em;">Hهba</span>*
@@ -15,8 +15,7 @@ The next page will include a summary of all the readings that I will perform in 
 | 5 | [Function JS](https://hiba-almade.github.io/Reading_Notes/FunctionJS) |
 | 6 | [CSS](https://hiba-almade.github.io/Reading_Notes/Css)                |
 
----
----
+
 ## Code 201 Reading Notes:
 |   | Title       |
 | --| ----------- |
