@@ -1,11 +1,13 @@
 ![Welcome](https://p.kindpng.com/picc/s/3-34565_welcome-png-transparent-png.png)
 
 **Hello**
-*My name is <span style="font-family:Papyrus; font-size:2em;">Hهba</span>*
+*My name is <span style="font-family:Papyrus; font-size:2em;">Hiba</span>*
 
 The next page will include a summary of all the readings that I will perform in this course..
 
 ## Code 102 Reading Notes:
+
+
 |   | Title                                                                 |
 | --| -----------                                                           |
 | 1 | [Growth](https://hiba-almade.github.io/Reading_Notes/growth)          |
@@ -17,6 +19,8 @@ The next page will include a summary of all the readings that I will perform in 
 
 
 ## Code 201 Reading Notes:
+
+
 |   | Title       |
 | --| ----------- |
 | 1 |             |
