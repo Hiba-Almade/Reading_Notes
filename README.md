@@ -23,7 +23,7 @@ The next page will include a summary of all the readings that I will perform in 
 
 |   | Title       |
 | --| ----------- |
-| 1 |             |
+| 1 | [Introductory HTML and JavaScript](https://hiba-almade.github.io/Reading_Notes/Read01)           |
 | 2 |             |
 | 3 |             |
 | 4 |             |
