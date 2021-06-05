@@ -12,6 +12,8 @@
 * a line containing HTML version information `DOCTYPE`.
 * a declarative `header` section (delimited by the HEAD element),
 * a `body`, which contains the document's actual content. The body may be implemented by the BODY element.
+
+
 ![html](https://i.pinimg.com/originals/c3/16/b8/c316b804abc25e9b1c509b1a96d5c9f6.jpg)
 
 > To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
@@ -48,7 +50,7 @@ HTML layouts provide a way to arrange web pages in well-mannered, well-structure
 
 ---
 
-### **  HTML Process and Design:**
+### **HTML Process and Design:**
 Well-designed websites offer much more than just aesthetics. They attract visitors and help people understand the product, company, and branding through a variety of indicators, encompassing visuals, text, and interactions. That means every element of your site needs to work towards a defined goal.
 *But how can you achieve this harmonious synthesis of the elements?* Through a comprehensive web design process that takes both form and function into account.
 
@@ -94,7 +96,8 @@ Conditionals and others do this job to make websites as interactive as possible.
 
 * **Create a JavaScript file:**
 
- In your project, in the same folder as your `index.html` page, create a new file called `app.js`. All of your project’s JavaScript code should be written in `.js` files.
+  In your project, in the same folder as your `index.html` page, create a new file called `app.js`. All of your project’s JavaScript code should be written in `.js` files.
+
 * **Add some test code to the file:**
 
   In your new file `app.js`, add the code.
