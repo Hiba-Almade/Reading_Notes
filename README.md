@@ -24,7 +24,7 @@ The next page will include a summary of all the readings that I will perform in 
 |   | Title       |
 | --| ----------- |
 | 1 | [Introductory HTML and JavaScript](https://hiba-almade.github.io/Reading_Notes/Read01)           |
-| 2 |             |
+| 2 | [HTML text, CSS introduction, and basic JavaScript help](https://hiba-almade.github.io/Reading_Notes/Class-02)            |
 | 3 |             |
 | 4 |             |
 | 5 |             |
