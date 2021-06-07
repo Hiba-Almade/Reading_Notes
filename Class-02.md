@@ -23,8 +23,6 @@ This style of elements is used to adjust how the elements appear on the web page
 Usually these commands are written in a separate HTML file, but they can be written inside it.
 CSS adds the aesthetic that may attract the user to the website.
 
----
-
 ## **JavaScript**: 
 The code is a set of sentences. Each sentence is an important step that cannot be skipped.
 They are very accurate and run sequentially from the beginning to the end of the file.
@@ -33,7 +31,4 @@ Variables are used to temporarily store pieces of information used in the script
 > Lots of details are present in javascript, some of them are like magic
 > **Function, object, loop, conditions, etc**.
 
-
-
-
-![photo](https://html-css-js.com/images/og.jpg)
+![phot](https://pics.me.me/html-css-js-mr-website-dev-human-55187847.png)
