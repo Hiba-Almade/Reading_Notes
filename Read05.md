@@ -15,7 +15,10 @@ Pictures are also used as logos or to display products, for e*ample..
 * Make sure to put it in the right place
 * Make sure it is sized appropriately
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70VtbDpGaaJ_cuwbDEFcJSAYcblqKq3qt0VBqmwMVtpi9tEUzyVTyrTDR6FLh*kMQ*QM&usqp=CAU)
+  ##  JPEG vs GIF vs PNG
+
+![img](https://ohthatphotoshop.files.wordpress.com/2015/02/image-file-size.png)
+
 
 ---
 
