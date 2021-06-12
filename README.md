@@ -10,12 +10,12 @@ The next page will include a summary of all the readings that I will perform in 
 
 |   | Title                                                                 |
 | --| -----------                                                           |
-| 1 | [Growth](https://hiba-almade.github.io/Reading_Notes/growth)          |
-| 2 | [HTML](https://hiba-almade.github.io/Reading_Notes/read3)             |
-| 3 | [JavaScript](https://hiba-almade.github.io/Reading_Notes/JavaScript)  |
-| 4 | [Loop JS](https://hiba-almade.github.io/Reading_Notes/LoopJS)         |
-| 5 | [Function JS](https://hiba-almade.github.io/Reading_Notes/FunctionJS) |
-| 6 | [CSS](https://hiba-almade.github.io/Reading_Notes/Css)                |
+| Read-01 | [Growth](https://hiba-almade.github.io/Reading_Notes/growth)          |
+| Read-02 | [HTML](https://hiba-almade.github.io/Reading_Notes/HTML)             |
+| Read-03 | [JavaScript](https://hiba-almade.github.io/Reading_Notes/JavaScript)  |
+| Read-04 | [Loop JS](https://hiba-almade.github.io/Reading_Notes/LoopJS)         |
+| Read-05 | [Function JS](https://hiba-almade.github.io/Reading_Notes/FunctionJS) |
+| Read-06 | [CSS](https://hiba-almade.github.io/Reading_Notes/Css)                |
 
 
 ## Code 201 Reading Notes:
@@ -23,21 +23,21 @@ The next page will include a summary of all the readings that I will perform in 
 
 |   | Title       |
 | --| ----------- |
-| 1 | [Introductory HTML and JavaScript](https://hiba-almade.github.io/Reading_Notes/Read01)           |
-| 2 | [HTML text, CSS introduction, and basic JavaScript help](https://hiba-almade.github.io/Reading_Notes/Read02)            |
-| 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://hiba-almade.github.io/Reading_Notes/Read03)           |
-| 4 | [HTML Links, JS Functions, and Intro to CSS Layout](https://hiba-almade.github.io/Reading_Notes/Read04)            |
-| 5 |             |
-| 6 |             |
-| 7 |             |
-| 8 |             |
-| 9 |             |
-| 10|             |
-| 11|             |
-| 12|             |
-| 13|             |
-| 14|             |
-| 15|             |
+| Read-01 | [Introductory HTML and JavaScript](https://hiba-almade.github.io/Reading_Notes/Read01)           |
+| Read-02 | [HTML text, CSS introduction, and basic JavaScript help](https://hiba-almade.github.io/Reading_Notes/Read02)            |
+| Read-03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://hiba-almade.github.io/Reading_Notes/Read03)           |
+| Read-04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://hiba-almade.github.io/Reading_Notes/Read04)            |
+| Read-05 | [HTML Images; CSS Color & Text](https://hiba-almade.github.io/Reading_Notes/Read05)              |
+| Read-06 |             |
+| Read-07 |             |
+| Read-08 |             |
+| Read-09 |             |
+| Read-10|             |
+| Read-11|             |
+| Read-12|             |
+| Read-13|             |
+| Read-14|             |
+| Read-15|             |
 
 
 
