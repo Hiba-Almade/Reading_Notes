@@ -28,7 +28,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://hiba-almade.github.io/Reading_Notes/Read03)           |
 | Read-04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://hiba-almade.github.io/Reading_Notes/Read04)            |
 | Read-05 | [HTML Images; CSS Color & Text](https://hiba-almade.github.io/Reading_Notes/Read05)              |
-| Read-06 |             |
+| Read-06 |  [JS Object Literals; The DOM ](https://hiba-almade.github.io/Reading_Notes/Read06)             |
 | Read-07 |             |
 | Read-08 |             |
 | Read-09 |             |
