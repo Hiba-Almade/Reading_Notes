@@ -29,8 +29,11 @@ You can select element nodes by their `id` or `class` attributes, by `tag name`,
 ### ACCESS OR UPDATE ATTRIBUTE VALUES:
 
 `hasAttribute()` checks if an attribute exists
+
 `getAttribute()` gets its value
+
 `setAttribute()` updates the value
+
 `removeAttribute()` removes an attribute.
 
 

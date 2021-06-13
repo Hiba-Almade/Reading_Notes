@@ -29,7 +29,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://hiba-almade.github.io/Reading_Notes/Read04)            |
 | Read-05 | [HTML Images; CSS Color & Text](https://hiba-almade.github.io/Reading_Notes/Read05)              |
 | Read-06 |  [JS Object Literals; The DOM ](https://hiba-almade.github.io/Reading_Notes/Read06)             |
-| Read-07 |             |
+| Read-07 | [HTML Tables; JS Constructor Functions](https://hiba-almade.github.io/Reading_Notes/Read07)           |
 | Read-08 |             |
 | Read-09 |             |
 | Read-10|             |
