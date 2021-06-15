@@ -31,7 +31,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-06 | [JS Object Literals; The DOM ](https://hiba-almade.github.io/Reading_Notes/Read06)             |
 | Read-07 | [HTML Tables; JS Constructor Functions](https://hiba-almade.github.io/Reading_Notes/Read07)           |
 | Read-08 | [CSS layout](https://hiba-almade.github.io/Reading_Notes/Read08)       |
-| Read-09 |             |
+| Read-09 |[Forms and Events](https://hiba-almade.github.io/Reading_Notes/Read09)            |
 | Read-10|             |
 | Read-11|             |
 | Read-12|             |
