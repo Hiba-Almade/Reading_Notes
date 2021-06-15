@@ -8,7 +8,7 @@ A form is a method used to take data from the user and send it to the server.
 
 In HTML `<input type=" ">` is an important element of HTML form. The "type" attribute of input element can be various types, which defines information field. Such as `<input type="text" name="name">` gives a text box.
 
-`>>` There are many type og input :
+`>>` There are many type of input :
 
 * ***text:*** Defines a one-line text input field
 *  ***password:*** 	Defines a one-line password input field
