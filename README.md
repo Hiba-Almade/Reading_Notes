@@ -35,7 +35,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-10|  [JS: Error Handling & Debugging](https://hiba-almade.github.io/Reading_Notes/Read10)          |
 | Read-11| [Assorted Topics](https://hiba-almade.github.io/Reading_Notes/Read11)             |
 | Read-12| [HTML `<canvas>` Element & Chart.js](https://hiba-almade.github.io/Reading_Notes/Read12)           |
-| Read-13|             |
+| Read-13| [Local Storage](https://hiba-almade.github.io/Reading_Notes/Read13)            |
 | Read-14|             |
 | Read-15|             |
 
