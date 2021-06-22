@@ -35,7 +35,7 @@ A transition occurs when a CSS property changes from one value to another value 
     2. the duration of the effect
 > Note: If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
-![css](https://www.litmus.com/wp-content/uploads/2020/04/a-simple-guide-to-understanding-css-animations-in-email.png)
+![css](https://coursework.vschool.io/content/images/2016/08/transition_example2.png)
 
 ---
 
@@ -54,4 +54,4 @@ CSS animations make it possible to animate transitions from one CSS style config
 > CSS allows animation of HTML elements without using JavaScript.
 
 
-![css](https://coursework.vschool.io/content/images/2016/08/transition_example2.png)
+![css](https://www.litmus.com/wp-content/uploads/2020/04/a-simple-guide-to-understanding-css-animations-in-email.png)
