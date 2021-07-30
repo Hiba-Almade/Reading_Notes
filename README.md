@@ -37,7 +37,12 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-12| [HTML `<canvas>` Element & Chart.js](https://hiba-almade.github.io/Reading_Notes/Read12)           |
 | Read-13| [Local Storage](https://hiba-almade.github.io/Reading_Notes/Read13)            |
 | Read-14| [CSS Transforms, Transitions, and Animations](https://hiba-almade.github.io/Reading_Notes/Read14)          |
-| Read-15|             |
+
+## Code 301 Reading Notes:
+
+|   | Title       |
+| --| ----------- |
+
 
 
 
