@@ -40,9 +40,10 @@ The next page will include a summary of all the readings that I will perform in 
 
 ## Code 301 Reading Notes:
 
+
 |   | Title       |
 | --| ----------- |
-
+| Read-01 | [Introduction to React and Components](https://hiba-almade.github.io/Reading_Notes/301Course/class01.md)           |
 
 
 
