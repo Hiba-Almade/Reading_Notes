@@ -44,6 +44,8 @@ The next page will include a summary of all the readings that I will perform in 
 |   | Title       |
 | --| ----------- |
 | Read-01 | [Introduction to React and Components](https://hiba-almade.github.io/Reading_Notes/301Course/class01)           |
+| Read-02  | [React Component Lifecycle Events
+](https://hiba-almade.github.io/Reading_Notes/301Course/class02)                |
 
 
 
