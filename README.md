@@ -48,6 +48,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-03 | [Lists and Keys in React](https://hiba-almade.github.io/Reading_Notes/301Course/class03)           |
 | Read-04 | [React and Forms](https://hiba-almade.github.io/Reading_Notes/301Course/class04)           |
 | Read-05 | [Putting it all together-React](https://hiba-almade.github.io/Reading_Notes/301Course/class05)           |
+| Read-06 | [Node.js & Pair Programming](https://hiba-almade.github.io/Reading_Notes/301Course/class06)           |
 
 
 
