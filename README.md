@@ -47,6 +47,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-02 | [React Component Lifecycle Events](https://hiba-almade.github.io/Reading_Notes/301Course/class02)           |
 | Read-03 | [Lists and Keys in React](https://hiba-almade.github.io/Reading_Notes/301Course/class03)           |
 | Read-04 | [React and Forms](https://hiba-almade.github.io/Reading_Notes/301Course/class04)           |
+| Read-05 | [Putting it all together-React](https://hiba-almade.github.io/Reading_Notes/301Course/class05)           |
 
 
 
