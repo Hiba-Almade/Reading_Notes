@@ -14,6 +14,13 @@ No use of the number generation methods
 What are the benefits of a pure function?
 If the value of a global variable changes, and is also used within the function, the result may not be as expected. This is avoided with a pure function. The code is also easier to test.
 
+## What are the benefits of a pure function?
+* Easier to reason about
+* Easier to combine
+* Easier to test
+* Easier to debug
+* Easier to parallelize
+
 ## What is immutability?
 immutability: the state cannot be changed after it has been created. Changing an immutable object can't be done, so you create a new object with the new value. For example- using a for loop to create a new array.
 
@@ -31,3 +38,9 @@ We use Require to point to a path to a js file. The .js ending is not necessary.
 
 ## What do we have to do to make a module available?
 Inside the initial module, one should specify what about the code should be able to be accessed outside the module. In the module `-->` module.exports =functionname; Then one should go back and set the function name equal to the require statement.
+
+## How do we bring another module into the file the we are working in?
+
+To include functions defined in another file in Node.js, we need to import the module. we will use the require keyword at the top of the file.
+
+The result of require is then stored in a variable which is used to invoke the functions using the dot notation.
