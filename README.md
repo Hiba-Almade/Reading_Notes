@@ -50,6 +50,9 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-05 | [Putting it all together-React](https://hiba-almade.github.io/Reading_Notes/301Course/class05)           |
 | Read-06 | [Node.js & Pair Programming](https://hiba-almade.github.io/Reading_Notes/301Course/class06)           |
 | Read-07 | [REST](https://hiba-almade.github.io/Reading_Notes/301Course/class07)           |
+| Read-08 |         |
+| Read-09 | [Functional Programming](https://hiba-almade.github.io/Reading_Notes/301Course/class09)           |
+
 
 
 
