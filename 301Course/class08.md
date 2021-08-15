@@ -21,6 +21,7 @@ The URI comprises: A non-empty scheme component followed by a colon ( : ), consi
 
 `>` For example:
 ![ex](https://css-tricks.com/wp-content/uploads/2010/07/urlbestpractices.jpg)
+![ex](https://morethancoding.files.wordpress.com/2011/09/rest-uri-orig1.png)
 
 ## What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
@@ -36,3 +37,15 @@ Chatty API is one that requires consumer to make tremendous (subjective matter) 
 4xx: Client Error – The request contains bad syntax or cannot be fulfilled
 5xx: Server Error – The server failed to fulfill an apparently valid request
 
+
+### What status code does a successful GET request return?
+201
+
+### What status code does an unsuccessful GET request return?
+400
+
+### What status code does a successful POST request return?
+200
+
+### What status code does a successful DELETE request return?
+204

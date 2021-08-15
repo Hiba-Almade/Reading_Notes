@@ -15,6 +15,9 @@ What are the benefits of a pure function?
 If the value of a global variable changes, and is also used within the function, the result may not be as expected. This is avoided with a pure function. The code is also easier to test.
 
 ## What are the benefits of a pure function?
+`>` 
+In computer programming, a pure function is a function that has the following properties: The function return values are identical for identical arguments (no variation with local static variables, non-local variables, mutable reference arguments or input streams).
+
 * Easier to reason about
 * Easier to combine
 * Easier to test
@@ -44,3 +47,5 @@ Inside the initial module, one should specify what about the code should be able
 To include functions defined in another file in Node.js, we need to import the module. we will use the require keyword at the top of the file.
 
 The result of require is then stored in a variable which is used to invoke the functions using the dot notation.
+
+`>` This is the way imports work. When you import something for the first time, the file is run and the exported values from it are returned back to the one importing it. When something is imported again, those same exports are reused and returned. Node JS modules work the same way.
