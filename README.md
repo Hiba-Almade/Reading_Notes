@@ -55,6 +55,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-10 | [In memory storage](https://hiba-almade.github.io/Reading_Notes/301Course/class10)           |
 | Read-11 | [Authentication](https://hiba-almade.github.io/Reading_Notes/301Course/class11)           |
 | Read-12 | [Mongo and Mongoose](https://hiba-almade.github.io/Reading_Notes/301Course/class12)           |
+| Read-13 | [CRUD](https://hiba-almade.github.io/Reading_Notes/301Course/class13)           |
 
 
 
