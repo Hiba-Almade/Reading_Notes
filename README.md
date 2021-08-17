@@ -56,6 +56,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-11 | [Authentication](https://hiba-almade.github.io/Reading_Notes/301Course/class11)           |
 | Read-12 | [Mongo and Mongoose](https://hiba-almade.github.io/Reading_Notes/301Course/class12)           |
 | Read-13 | [CRUD](https://hiba-almade.github.io/Reading_Notes/301Course/class13)           |
+| Read-14 | [Diversity & Inclusion in the Tech Industry](https://hiba-almade.github.io/Reading_Notes/301Course/class14)           |
 
 
 
