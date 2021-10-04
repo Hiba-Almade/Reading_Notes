@@ -5,7 +5,7 @@
 
 The next page will include a summary of all the readings that I will perform in this course..
 
-## Code 102 Reading Notes:
+## Code 102 Reading Notes: Intro to Software Development
 
 
 |   | Title                                                                 |
@@ -18,7 +18,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-06 | [CSS](https://hiba-almade.github.io/Reading_Notes/Css)                |
 
 
-## Code 201 Reading Notes:
+## Code 201 Reading Notes: Foundations of Software Development
 
 
 |   | Title       |
@@ -38,7 +38,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-13| [Local Storage](https://hiba-almade.github.io/Reading_Notes/Read13)            |
 | Read-14| [CSS Transforms, Transitions, and Animations](https://hiba-almade.github.io/Reading_Notes/Read14)          |
 
-## Code 301 Reading Notes:
+## Code 301 Reading Notes: Intermediate Software Development
 
 
 |   | Title       |
@@ -59,8 +59,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-14 | [Diversity & Inclusion in the Tech Industry](https://hiba-almade.github.io/Reading_Notes/301Course/class14)           |
 
 
-
-
+## Code 401 Reading Notes:  Advanced Software Development
 
 
 
