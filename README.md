@@ -1,7 +1,9 @@
-![Welcome](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRNi5lLT2K3kt901NhxrSaZ4kqceYbB2-2A&usqp=CAU)
+![Welcome](https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?size=338&ext=jpg)
 
 **Hello**
-*My name is <span style="font-family:Papyrus; font-size:2em;">Hiba</span>*
+*My name is Hiba Almade*
+
+### Software engineer
 
 The next page will include a summary of all the readings that I will perform in this course..
 
@@ -64,5 +66,7 @@ The next page will include a summary of all the readings that I will perform in 
 
 
 
-
+|   | Title       |
+| --| ----------- |
+| Read-01 | [ Java Basics](https://hiba-almade.github.io/Reading_Notes/401Course/class01)           |
 
