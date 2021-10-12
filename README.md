@@ -71,4 +71,5 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-01 | [ Java Basics](https://hiba-almade.github.io/Reading_Notes/401Course/class01)           |
 | Read-02 | [ Arrays, Loops, Imports](https://hiba-almade.github.io/Reading_Notes/401Course/class02)           |
 | Read-03 | [ Maps, primitives, File I/O](https://hiba-almade.github.io/Reading_Notes/401Course/class03)           |
+| Read-04 | [ OOP ](https://hiba-almade.github.io/Reading_Notes/401Course/class04)           |
 
