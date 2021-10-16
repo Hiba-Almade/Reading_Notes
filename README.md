@@ -73,4 +73,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-03 | [ Maps, primitives, File I/O](https://hiba-almade.github.io/Reading_Notes/401Course/class03)           |
 | Read-04 | [ OOP ](https://hiba-almade.github.io/Reading_Notes/401Course/class04)           |
 | Read-05 | [ Linked List ](https://hiba-almade.github.io/Reading_Notes/401Course/class05)           |
+| Read-06 | [ Inheritance and Interfaces ](https://hiba-almade.github.io/Reading_Notes/401Course/class06)           |
+
+
 
