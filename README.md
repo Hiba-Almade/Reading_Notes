@@ -74,6 +74,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-04 | [ OOP ](https://hiba-almade.github.io/Reading_Notes/401Course/class04)           |
 | Read-05 | [ Linked List ](https://hiba-almade.github.io/Reading_Notes/401Course/class05)           |
 | Read-06 | [ Inheritance and Interfaces ](https://hiba-almade.github.io/Reading_Notes/401Course/class06)           |
+| Read-08 | [OO design ](https://hiba-almade.github.io/Reading_Notes/401Course/class08)           |
 
 
 
