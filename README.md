@@ -77,6 +77,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-08 | [OO design ](https://hiba-almade.github.io/Reading_Notes/401Course/class08)           |
 | Read-10 | [Stacks & Queues ](https://hiba-almade.github.io/Reading_Notes/401Course/class10)           |
 | Read-11 | [Spring ](https://hiba-almade.github.io/Reading_Notes/401Course/class11)           |
+| Read-12 | [Spring request ](https://hiba-almade.github.io/Reading_Notes/401Course/class12)           |
 
 
 
