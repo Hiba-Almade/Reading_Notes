@@ -79,7 +79,8 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-11 | [Spring ](https://hiba-almade.github.io/Reading_Notes/401Course/class11)           |
 | Read-12 | [Spring request ](https://hiba-almade.github.io/Reading_Notes/401Course/class12)           |
 | Read-13 | [Related Resources and Integration Testing ](https://hiba-almade.github.io/Reading_Notes/401Course/class13)           |
-| Read-13 | [The Trees ](https://hiba-almade.github.io/Reading_Notes/401Course/class14)           |
+| Read-14 | [The Trees ](https://hiba-almade.github.io/Reading_Notes/401Course/class14)           |
+| Read-15 | [Spring Authentication ](https://hiba-almade.github.io/Reading_Notes/401Course/class15)           |
 
 
 
