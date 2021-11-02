@@ -83,5 +83,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-15 | [Spring Authentication ](https://hiba-almade.github.io/Reading_Notes/401Course/class15)           |
 | Read-16 | [Spring Boot and OAuth2 ](https://hiba-almade.github.io/Reading_Notes/401Course/class16)           |
 | Read-18 | [Web App Security ](https://hiba-almade.github.io/Reading_Notes/401Course/class18)           |
+| Read-19 | [Spring and Sockets ](https://hiba-almade.github.io/Reading_Notes/401Course/class19)           |
 
 
