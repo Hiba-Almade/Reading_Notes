@@ -85,5 +85,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-18 | [Web App Security ](https://hiba-almade.github.io/Reading_Notes/401Course/class18)           |
 | Read-19 | [Spring and Sockets ](https://hiba-almade.github.io/Reading_Notes/401Course/class19)           |
 | Read-26 | [Application Fundamentals](https://hiba-almade.github.io/Reading_Notes/401Course/class26)           |
+| Read-26 | [Android Tasks and the Back Stack](https://hiba-almade.github.io/Reading_Notes/401Course/class27)           |
 
 
