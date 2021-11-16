@@ -87,5 +87,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-26 | [Application Fundamentals](https://hiba-almade.github.io/Reading_Notes/401Course/class26)           |
 | Read-27 | [Android Tasks and the Back Stack](https://hiba-almade.github.io/Reading_Notes/401Course/class27)           |
 | Read-28 | [Create dynamic lists with RecyclerView](https://hiba-almade.github.io/Reading_Notes/401Course/class28)           |
+| Read-29 | [Room](https://hiba-almade.github.io/Reading_Notes/401Course/class29)           |
 
 
