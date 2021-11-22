@@ -91,5 +91,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-30 | [Room](https://hiba-almade.github.io/Reading_Notes/401Course/class30)           |
 | Read-31 | [Espresso](https://hiba-almade.github.io/Reading_Notes/401Course/class31)           |
 | Read-32 | [Intro to Serverless](https://hiba-almade.github.io/Reading_Notes/401Course/class32)           |
+| Read-33| [GraphQL @connection ](https://hiba-almade.github.io/Reading_Notes/401Course/class33)           |
 
 
