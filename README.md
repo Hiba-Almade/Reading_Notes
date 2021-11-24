@@ -76,7 +76,7 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-06 | [ Inheritance and Interfaces ](https://hiba-almade.github.io/Reading_Notes/401Course/class06)           |
 | Read-08 | [OO design ](https://hiba-almade.github.io/Reading_Notes/401Course/class08)           |
 | Read-10 | [Stacks & Queues ](https://hiba-almade.github.io/Reading_Notes/401Course/class10)           |
-| Read-11 | [Spring ](https://hiba-almade.github.io/Reading_Notes/401Course/class11)           |
+| Read-11 | [Spring](https://hiba-almade.github.io/Reading_Notes/401Course/class11)           |
 | Read-12 | [Spring request ](https://hiba-almade.github.io/Reading_Notes/401Course/class12)           |
 | Read-13 | [Related Resources and Integration Testing ](https://hiba-almade.github.io/Reading_Notes/401Course/class13)           |
 | Read-14 | [The Trees ](https://hiba-almade.github.io/Reading_Notes/401Course/class14)           |
@@ -91,7 +91,8 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-30 | [Room](https://hiba-almade.github.io/Reading_Notes/401Course/class30)           |
 | Read-31 | [Espresso](https://hiba-almade.github.io/Reading_Notes/401Course/class31)           |
 | Read-32 | [Intro to Serverless](https://hiba-almade.github.io/Reading_Notes/401Course/class32)           |
-| Read-33| [GraphQL @connection ](https://hiba-almade.github.io/Reading_Notes/401Course/class33)           |
-| Read-34| [Android Monetization ](https://hiba-almade.github.io/Reading_Notes/401Course/class34)           |
+| Read-33| [GraphQL @connection](https://hiba-almade.github.io/Reading_Notes/401Course/class33)           |
+| Read-34| [Android Monetization](https://hiba-almade.github.io/Reading_Notes/401Course/class34)           |
+| Read-35| [Graphs](https://hiba-almade.github.io/Reading_Notes/401Course/class35)           |
 
 
