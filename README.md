@@ -94,5 +94,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-33| [GraphQL @connection](https://hiba-almade.github.io/Reading_Notes/401Course/class33)           |
 | Read-34| [Android Monetization](https://hiba-almade.github.io/Reading_Notes/401Course/class34)           |
 | Read-35| [Graphs](https://hiba-almade.github.io/Reading_Notes/401Course/class35)           |
+| Read-36| [Cognito](https://hiba-almade.github.io/Reading_Notes/401Course/class36)           |
 
 
