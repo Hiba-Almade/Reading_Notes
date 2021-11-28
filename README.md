@@ -95,5 +95,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-34| [Android Monetization](https://hiba-almade.github.io/Reading_Notes/401Course/class34)           |
 | Read-35| [Graphs](https://hiba-almade.github.io/Reading_Notes/401Course/class35)           |
 | Read-36| [Cognito](https://hiba-almade.github.io/Reading_Notes/401Course/class36)           |
+| Read-37| [S3](https://hiba-almade.github.io/Reading_Notes/401Course/class37)           |
 
 
