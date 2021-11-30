@@ -97,5 +97,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-36| [Cognito](https://hiba-almade.github.io/Reading_Notes/401Course/class36)           |
 | Read-37| [S3](https://hiba-almade.github.io/Reading_Notes/401Course/class37)           |
 | Read-38| [Notifications](https://hiba-almade.github.io/Reading_Notes/401Course/class38)           |
+| Read-39| [Kinesis](https://hiba-almade.github.io/Reading_Notes/401Course/class39)           |
 
 
