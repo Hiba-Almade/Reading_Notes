@@ -100,5 +100,6 @@ The next page will include a summary of all the readings that I will perform in 
 | Read-39| [Kinesis](https://hiba-almade.github.io/Reading_Notes/401Course/class39)           |
 | Read-41| [Intent Filters](https://hiba-almade.github.io/Reading_Notes/401Course/class41)           |
 | Read-42| [Location](https://hiba-almade.github.io/Reading_Notes/401Course/class42)           |
+| Read-43| [Amplify and Kinesis](https://hiba-almade.github.io/Reading_Notes/401Course/class43)           |
 
 
